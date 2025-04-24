@@ -16,6 +16,7 @@ const corsOptions = {
     "http://localhost:3000",
     "https://yojnashayak.vercel.app/",
     "https://yojnasahayak.vercel.app",
+    "https://lda-govschemes.vercel.app/"
   ], // Allow your frontend domain and others
   methods: ["GET", "POST", "PUT", "DELETE", "PATCH"],
   allowedHeaders: ["Content-Type", "Authorization"],
